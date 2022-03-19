@@ -1,0 +1,29 @@
+body {
+  background-color: #9390ff;
+  color: #fff;
+}
+
+svg{
+  width: 700px;
+  position: absolute;
+  left: -50px;
+  bottom: 180px;
+}
+
+.text {
+  font-size: 21px;
+  position: absolute;
+  top: 200px;
+  left: 135px;
+}
+
+.text h1 {
+  font-size: 60px;
+}
+
+img {
+  position: absolute;
+  width: 300px;
+  top: 300px;
+  left: 300px;
+}
